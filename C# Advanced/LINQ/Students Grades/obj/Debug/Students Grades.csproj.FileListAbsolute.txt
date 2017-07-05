@@ -1,0 +1,9 @@
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Students Grades\bin\Debug\Students Grades.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Students Grades\bin\Debug\Students Grades.exe
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Students Grades\bin\Debug\Students Grades.pdb
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Students Grades\bin\Debug\Students By Group.exe
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Students Grades\bin\Debug\Students By Group.pdb
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Students Grades\bin\Debug\Students By Group.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Students Grades\obj\Debug\Students Grades.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Students Grades\obj\Debug\Students Grades.exe
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Students Grades\obj\Debug\Students Grades.pdb

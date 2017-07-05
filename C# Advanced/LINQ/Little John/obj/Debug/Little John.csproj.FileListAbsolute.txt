@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Little John\bin\Debug\Little John.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Little John\bin\Debug\Little John.exe
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Little John\bin\Debug\Little John.pdb
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Little John\obj\Debug\Little John.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Little John\obj\Debug\Little John.exe
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Little John\obj\Debug\Little John.pdb

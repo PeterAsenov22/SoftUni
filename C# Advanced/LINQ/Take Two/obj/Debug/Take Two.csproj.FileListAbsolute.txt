@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Take Two\bin\Debug\Take Two.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Take Two\bin\Debug\Take Two.exe
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Take Two\bin\Debug\Take Two.pdb
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Take Two\obj\Debug\Take Two.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Take Two\obj\Debug\Take Two.exe
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Take Two\obj\Debug\Take Two.pdb

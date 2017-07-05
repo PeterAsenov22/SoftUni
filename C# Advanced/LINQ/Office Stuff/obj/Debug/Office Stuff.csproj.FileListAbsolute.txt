@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Office Stuff\bin\Debug\Office Stuff.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Office Stuff\bin\Debug\Office Stuff.exe
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Office Stuff\bin\Debug\Office Stuff.pdb
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Office Stuff\obj\Debug\Office Stuff.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Office Stuff\obj\Debug\Office Stuff.exe
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Office Stuff\obj\Debug\Office Stuff.pdb

@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Map Districts\bin\Debug\Map Districts.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Map Districts\bin\Debug\Map Districts.exe
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Map Districts\bin\Debug\Map Districts.pdb
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Map Districts\obj\Debug\Map Districts.exe
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Map Districts\obj\Debug\Map Districts.pdb
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Map Districts\obj\Debug\Map Districts.csprojResolveAssemblyReference.cache

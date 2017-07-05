@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Group By Group\bin\Debug\Group By Group.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Group By Group\bin\Debug\Group By Group.exe
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Group By Group\bin\Debug\Group By Group.pdb
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Group By Group\obj\Debug\Group By Group.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Group By Group\obj\Debug\Group By Group.exe
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Group By Group\obj\Debug\Group By Group.pdb
