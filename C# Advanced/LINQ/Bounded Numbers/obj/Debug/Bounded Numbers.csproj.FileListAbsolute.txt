@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Bounded Numbers\bin\Debug\Bounded Numbers.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Bounded Numbers\bin\Debug\Bounded Numbers.exe
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Bounded Numbers\bin\Debug\Bounded Numbers.pdb
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Bounded Numbers\obj\Debug\Bounded Numbers.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Bounded Numbers\obj\Debug\Bounded Numbers.exe
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Bounded Numbers\obj\Debug\Bounded Numbers.pdb

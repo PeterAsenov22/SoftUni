@@ -1,0 +1,5 @@
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Average of Doubles\bin\Debug\Average of Doubles.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Average of Doubles\bin\Debug\Average of Doubles.exe
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Average of Doubles\bin\Debug\Average of Doubles.pdb
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Average of Doubles\obj\Debug\Average of Doubles.exe
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Average of Doubles\obj\Debug\Average of Doubles.pdb

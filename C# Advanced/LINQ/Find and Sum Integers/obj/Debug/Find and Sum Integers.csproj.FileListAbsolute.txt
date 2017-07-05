@@ -1,0 +1,5 @@
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Find and Sum Integers\bin\Debug\Find and Sum Integers.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Find and Sum Integers\bin\Debug\Find and Sum Integers.exe
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Find and Sum Integers\bin\Debug\Find and Sum Integers.pdb
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Find and Sum Integers\obj\Debug\Find and Sum Integers.exe
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Find and Sum Integers\obj\Debug\Find and Sum Integers.pdb

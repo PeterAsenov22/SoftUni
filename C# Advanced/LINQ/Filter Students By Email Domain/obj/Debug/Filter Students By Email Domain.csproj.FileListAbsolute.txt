@@ -1,0 +1,9 @@
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Filter Students By Email Domain\bin\Debug\Filter Students By Email Domain.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Filter Students By Email Domain\bin\Debug\Filter Students By Email Domain.exe
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Filter Students By Email Domain\bin\Debug\Filter Students By Email Domain.pdb
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Filter Students By Email Domain\bin\Debug\Students By Group.exe
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Filter Students By Email Domain\bin\Debug\Students By Group.pdb
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Filter Students By Email Domain\bin\Debug\Students By Group.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Filter Students By Email Domain\obj\Debug\Filter Students By Email Domain.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Filter Students By Email Domain\obj\Debug\Filter Students By Email Domain.exe
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Filter Students By Email Domain\obj\Debug\Filter Students By Email Domain.pdb

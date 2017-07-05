@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\First Name\bin\Debug\First Name.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\First Name\bin\Debug\First Name.exe
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\First Name\bin\Debug\First Name.pdb
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\First Name\obj\Debug\First Name.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\First Name\obj\Debug\First Name.exe
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\First Name\obj\Debug\First Name.pdb

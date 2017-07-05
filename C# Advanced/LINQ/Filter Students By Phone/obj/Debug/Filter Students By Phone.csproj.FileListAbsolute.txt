@@ -1,0 +1,9 @@
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Filter Students By Phone\bin\Debug\Filter Students By Phone.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Filter Students By Phone\bin\Debug\Filter Students By Phone.exe
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Filter Students By Phone\bin\Debug\Filter Students By Phone.pdb
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Filter Students By Phone\bin\Debug\Students By Group.exe
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Filter Students By Phone\bin\Debug\Students By Group.pdb
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Filter Students By Phone\bin\Debug\Students By Group.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Filter Students By Phone\obj\Debug\Filter Students By Phone.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Filter Students By Phone\obj\Debug\Filter Students By Phone.exe
+c:\users\acer\documents\visual studio 2017\Projects\LINQ\Filter Students By Phone\obj\Debug\Filter Students By Phone.pdb
