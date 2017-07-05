@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Simple Calculator\bin\Debug\Simple Calculator.exe
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Simple Calculator\bin\Debug\Simple Calculator.pdb
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Simple Calculator\obj\Debug\Simple Calculator.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Simple Calculator\obj\Debug\Simple Calculator.exe
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Simple Calculator\obj\Debug\Simple Calculator.pdb

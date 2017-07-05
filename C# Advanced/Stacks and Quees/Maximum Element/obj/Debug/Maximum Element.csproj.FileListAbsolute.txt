@@ -1,0 +1,5 @@
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Maximum Element\bin\Debug\Maximum Element.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Maximum Element\bin\Debug\Maximum Element.exe
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Maximum Element\bin\Debug\Maximum Element.pdb
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Maximum Element\obj\Debug\Maximum Element.exe
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Maximum Element\obj\Debug\Maximum Element.pdb

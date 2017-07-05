@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Stack Fibonacci\bin\Debug\Stack Fibonacci.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Stack Fibonacci\bin\Debug\Stack Fibonacci.exe
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Stack Fibonacci\bin\Debug\Stack Fibonacci.pdb
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Stack Fibonacci\obj\Debug\Stack Fibonacci.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Stack Fibonacci\obj\Debug\Stack Fibonacci.exe
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Stack Fibonacci\obj\Debug\Stack Fibonacci.pdb

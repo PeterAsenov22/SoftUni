@@ -1,0 +1,6 @@
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Stacks and Queues\Simple Text Editor\bin\Debug\Simple Text Editor.exe.config
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Stacks and Queues\Simple Text Editor\bin\Debug\Simple Text Editor.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Stacks and Queues\Simple Text Editor\bin\Debug\Simple Text Editor.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Stacks and Queues\Simple Text Editor\obj\Debug\Simple Text Editor.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Stacks and Queues\Simple Text Editor\obj\Debug\Simple Text Editor.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Stacks and Queues\Simple Text Editor\obj\Debug\Simple Text Editor.pdb

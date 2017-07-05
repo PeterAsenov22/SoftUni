@@ -1,0 +1,6 @@
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Stacks and Queues\Poisonous Plants 2\bin\Debug\Poisonous Plants 2.exe.config
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Stacks and Queues\Poisonous Plants 2\bin\Debug\Poisonous Plants 2.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Stacks and Queues\Poisonous Plants 2\bin\Debug\Poisonous Plants 2.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Stacks and Queues\Poisonous Plants 2\obj\Debug\Poisonous Plants 2.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Stacks and Queues\Poisonous Plants 2\obj\Debug\Poisonous Plants 2.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Stacks and Queues\Poisonous Plants 2\obj\Debug\Poisonous Plants 2.pdb

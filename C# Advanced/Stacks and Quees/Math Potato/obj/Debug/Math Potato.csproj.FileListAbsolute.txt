@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Math Potato\bin\Debug\Math Potato.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Math Potato\bin\Debug\Math Potato.exe
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Math Potato\bin\Debug\Math Potato.pdb
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Math Potato\obj\Debug\Math Potato.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Math Potato\obj\Debug\Math Potato.exe
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Math Potato\obj\Debug\Math Potato.pdb

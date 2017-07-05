@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Recursive Fibonacci\bin\Debug\Recursive Fibonacci.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Recursive Fibonacci\bin\Debug\Recursive Fibonacci.exe
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Recursive Fibonacci\bin\Debug\Recursive Fibonacci.pdb
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Recursive Fibonacci\obj\Debug\Recursive Fibonacci.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Recursive Fibonacci\obj\Debug\Recursive Fibonacci.exe
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Recursive Fibonacci\obj\Debug\Recursive Fibonacci.pdb
