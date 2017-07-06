@@ -1,0 +1,5 @@
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Logs Aggregator\bin\Debug\Logs Aggregator.exe.config
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Logs Aggregator\bin\Debug\Logs Aggregator.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Logs Aggregator\bin\Debug\Logs Aggregator.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Logs Aggregator\obj\Debug\Logs Aggregator.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Logs Aggregator\obj\Debug\Logs Aggregator.pdb

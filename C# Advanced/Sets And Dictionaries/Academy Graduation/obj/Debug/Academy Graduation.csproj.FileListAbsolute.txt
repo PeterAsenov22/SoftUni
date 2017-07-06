@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2017\Projects\Sets and Dictionaries\Academy Graduation\bin\Debug\Academy Graduation.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\Sets and Dictionaries\Academy Graduation\bin\Debug\Academy Graduation.exe
+c:\users\acer\documents\visual studio 2017\Projects\Sets and Dictionaries\Academy Graduation\bin\Debug\Academy Graduation.pdb
+c:\users\acer\documents\visual studio 2017\Projects\Sets and Dictionaries\Academy Graduation\obj\Debug\Academy Graduation.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2017\Projects\Sets and Dictionaries\Academy Graduation\obj\Debug\Academy Graduation.exe
+c:\users\acer\documents\visual studio 2017\Projects\Sets and Dictionaries\Academy Graduation\obj\Debug\Academy Graduation.pdb

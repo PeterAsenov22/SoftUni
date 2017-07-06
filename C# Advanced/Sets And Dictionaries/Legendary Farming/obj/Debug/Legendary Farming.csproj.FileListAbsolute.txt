@@ -1,0 +1,6 @@
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Legendary Farming\bin\Debug\Legendary Farming.exe.config
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Legendary Farming\bin\Debug\Legendary Farming.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Legendary Farming\bin\Debug\Legendary Farming.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Legendary Farming\obj\Debug\Legendary Farming.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Legendary Farming\obj\Debug\Legendary Farming.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Legendary Farming\obj\Debug\Legendary Farming.pdb

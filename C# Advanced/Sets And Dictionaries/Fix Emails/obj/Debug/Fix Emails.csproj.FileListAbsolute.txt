@@ -1,0 +1,5 @@
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Fix Emails\bin\Debug\Fix Emails.exe.config
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Fix Emails\bin\Debug\Fix Emails.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Fix Emails\bin\Debug\Fix Emails.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Fix Emails\obj\Debug\Fix Emails.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Fix Emails\obj\Debug\Fix Emails.pdb

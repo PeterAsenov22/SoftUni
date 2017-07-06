@@ -1,0 +1,6 @@
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Hands of Cards\bin\Debug\Hands of Cards.exe.config
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Hands of Cards\bin\Debug\Hands of Cards.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Hands of Cards\bin\Debug\Hands of Cards.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Hands of Cards\obj\Debug\Hands of Cards.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Hands of Cards\obj\Debug\Hands of Cards.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Hands of Cards\obj\Debug\Hands of Cards.pdb
