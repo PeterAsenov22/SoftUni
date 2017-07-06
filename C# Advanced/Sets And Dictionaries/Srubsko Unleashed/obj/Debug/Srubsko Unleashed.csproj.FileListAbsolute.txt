@@ -1,0 +1,6 @@
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Srubsko Unleashed\bin\Debug\Srubsko Unleashed.exe.config
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Srubsko Unleashed\bin\Debug\Srubsko Unleashed.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Srubsko Unleashed\bin\Debug\Srubsko Unleashed.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Srubsko Unleashed\obj\Debug\Srubsko Unleashed.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Srubsko Unleashed\obj\Debug\Srubsko Unleashed.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Srubsko Unleashed\obj\Debug\Srubsko Unleashed.pdb

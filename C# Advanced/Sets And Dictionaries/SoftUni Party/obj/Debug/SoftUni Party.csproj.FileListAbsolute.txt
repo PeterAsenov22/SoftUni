@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2017\Projects\Sets and Dictionaries\SoftUni Party\bin\Debug\SoftUni Party.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\Sets and Dictionaries\SoftUni Party\bin\Debug\SoftUni Party.exe
+c:\users\acer\documents\visual studio 2017\Projects\Sets and Dictionaries\SoftUni Party\bin\Debug\SoftUni Party.pdb
+c:\users\acer\documents\visual studio 2017\Projects\Sets and Dictionaries\SoftUni Party\obj\Debug\SoftUni Party.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2017\Projects\Sets and Dictionaries\SoftUni Party\obj\Debug\SoftUni Party.exe
+c:\users\acer\documents\visual studio 2017\Projects\Sets and Dictionaries\SoftUni Party\obj\Debug\SoftUni Party.pdb

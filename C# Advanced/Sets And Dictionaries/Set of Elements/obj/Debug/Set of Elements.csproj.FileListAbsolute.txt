@@ -1,0 +1,5 @@
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Set of Elements\bin\Debug\Set of Elements.exe.config
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Set of Elements\bin\Debug\Set of Elements.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Set of Elements\bin\Debug\Set of Elements.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Set of Elements\obj\Debug\Set of Elements.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Set of Elements\obj\Debug\Set of Elements.pdb

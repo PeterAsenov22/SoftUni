@@ -1,0 +1,5 @@
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Unique Usernames\bin\Debug\Unique Usernames.exe.config
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Unique Usernames\bin\Debug\Unique Usernames.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Unique Usernames\bin\Debug\Unique Usernames.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Unique Usernames\obj\Debug\Unique Usernames.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Unique Usernames\obj\Debug\Unique Usernames.pdb

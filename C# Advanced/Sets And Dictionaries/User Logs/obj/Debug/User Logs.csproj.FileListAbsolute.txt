@@ -1,0 +1,6 @@
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\User Logs\bin\Debug\User Logs.exe.config
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\User Logs\bin\Debug\User Logs.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\User Logs\bin\Debug\User Logs.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\User Logs\obj\Debug\User Logs.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\User Logs\obj\Debug\User Logs.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\User Logs\obj\Debug\User Logs.pdb

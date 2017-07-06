@@ -1,0 +1,6 @@
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Periodic Table\bin\Debug\Periodic Table.exe.config
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Periodic Table\bin\Debug\Periodic Table.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Periodic Table\bin\Debug\Periodic Table.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Periodic Table\obj\Debug\Periodic Table.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Periodic Table\obj\Debug\Periodic Table.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\Periodic Table\obj\Debug\Periodic Table.pdb
