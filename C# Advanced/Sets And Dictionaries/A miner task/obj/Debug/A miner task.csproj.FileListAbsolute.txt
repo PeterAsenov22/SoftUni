@@ -1,0 +1,6 @@
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\A miner task\bin\Debug\A miner task.exe.config
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\A miner task\bin\Debug\A miner task.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\A miner task\bin\Debug\A miner task.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\A miner task\obj\Debug\A miner task.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\A miner task\obj\Debug\A miner task.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\Sets and Dictionaries\A miner task\obj\Debug\A miner task.csprojResolveAssemblyReference.cache
