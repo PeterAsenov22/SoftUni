@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Decimal to Binary\bin\Debug\Decimal to Binary.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Decimal to Binary\bin\Debug\Decimal to Binary.exe
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Decimal to Binary\bin\Debug\Decimal to Binary.pdb
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Decimal to Binary\obj\Debug\Decimal to Binary.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Decimal to Binary\obj\Debug\Decimal to Binary.exe
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Decimal to Binary\obj\Debug\Decimal to Binary.pdb

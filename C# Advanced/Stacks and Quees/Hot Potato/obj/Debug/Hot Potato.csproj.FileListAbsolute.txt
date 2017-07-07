@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Hot Potato\bin\Debug\Hot Potato.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Hot Potato\bin\Debug\Hot Potato.exe
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Hot Potato\bin\Debug\Hot Potato.pdb
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Hot Potato\obj\Debug\Hot Potato.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Hot Potato\obj\Debug\Hot Potato.exe
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Hot Potato\obj\Debug\Hot Potato.pdb
