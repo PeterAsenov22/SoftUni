@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Basic Queue Operations\bin\Debug\Basic Queue Operations.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Basic Queue Operations\bin\Debug\Basic Queue Operations.exe
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Basic Queue Operations\bin\Debug\Basic Queue Operations.pdb
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Basic Queue Operations\obj\Debug\Basic Queue Operations.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Basic Queue Operations\obj\Debug\Basic Queue Operations.exe
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Basic Queue Operations\obj\Debug\Basic Queue Operations.pdb

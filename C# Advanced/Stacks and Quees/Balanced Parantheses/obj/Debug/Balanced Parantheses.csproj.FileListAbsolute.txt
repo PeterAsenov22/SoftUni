@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Balanced Parantheses\bin\Debug\Balanced Parantheses.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Balanced Parantheses\bin\Debug\Balanced Parantheses.exe
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Balanced Parantheses\bin\Debug\Balanced Parantheses.pdb
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Balanced Parantheses\obj\Debug\Balanced Parantheses.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Balanced Parantheses\obj\Debug\Balanced Parantheses.exe
+c:\users\acer\documents\visual studio 2017\Projects\Stacks and Queues\Balanced Parantheses\obj\Debug\Balanced Parantheses.pdb
