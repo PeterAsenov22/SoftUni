@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Distance Converter</title>
+    <script src="distanceConverter.js"></script>
+    <style>
+        label, input {
+            display: inline-block;
+            width: 5em;
+        }
+
+        label {
+            text-align: right;
+        }
+    </style>
+</head>
+<body onload="attachEventsListeners()">
+<h1>Distance Converter</h1>
+<div>
+    <label for="inputDistance">From:</label>
+    <input type="text" id="inputDistance">
+    <select id="inputUnits">
+        <option value="km">Kilometers</option>
+        <option value="m">Meters</option>
+        <option value="cm">Centimeters</option>
+        <option value="mm">Millimeters</option>
+        <option value="mi">Miles</option>
+        <option value="yrd">Yards</option>
+        <option value="ft">Feet</option>
+        <option value="in">Inches</option>
+    </select>
+    <input type="button" id="convert" value="Convert">
+</div>
+<div>
+    <label for="outputDistance">To:</label>
+    <input type="text" id="outputDistance" disabled="disabled">
+    <select id="outputUnits">
+        <option value="km">Kilometers</option>
+        <option value="m">Meters</option>
+        <option value="cm">Centimeters</option>
+        <option value="mm">Millimeters</option>
+        <option value="mi">Miles</option>
+        <option value="yrd">Yards</option>
+        <option value="ft">Feet</option>
+        <option value="in">Inches</option>
+    </select>
+</div>
+<script>
+    function attachEventsListeners() {
+        document.getElementById('convert').addEventListener('click',convert);
+
+        function convert() {
+            let from = document.getElementById('inputUnits').value;
+            let to = document.getElementById('outputUnits').value;
+
+            let inputDistance = Number(document.getElementById('inputDistance').value);
+
+            let meters;
+            let result;
+
+            switch (from){
+                case 'km':
+                    meters = convertMeters(inputDistance,'km','to');
+                    break;
+                case 'm':
+                    meters = inputDistance;
+                    break;
+                case 'cm':
+                    meters = convertMeters(inputDistance,'cm','to');
+                    break;
+                case 'mm':
+                    meters = convertMeters(inputDistance,'mm','to');
+                    break;
+                case 'mi':
+                    meters = convertMeters(inputDistance,'mi','to');
+                    break;
+                case 'yrd':
+                    meters = convertMeters(inputDistance,'yrd','to');
+                    break;
+                case 'ft':
+                    meters = convertMeters(inputDistance,'ft','to');
+                    break;
+                case 'in':
+                    meters = convertMeters(inputDistance,'in','to');
+                    break;
+            }
+
+            switch (to){
+                case 'km':
+                    result = convertMeters(meters,'km');
+                    break;
+                case 'm':
+                    result = meters;
+                    break;
+                case 'cm':
+                    result = convertMeters(meters,'cm');
+                    break;
+                case 'mm':
+                    result = convertMeters(meters,'mm');
+                    break;
+                case 'mi':
+                    result = convertMeters(meters,'mi');
+                    break;
+                case 'yrd':
+                    result = convertMeters(meters,'yrd');
+                    break;
+                case 'ft':
+                    result = convertMeters(meters,'ft');
+                    break;
+                case 'in':
+                    result = convertMeters(meters,'in');
+                    break;
+            }
+
+            document.getElementById('outputDistance').value = result;
+        }
+        
+        function convertMeters(value,unit,action) {
+            switch (unit){
+                case 'km':
+                    if(action == 'to'){
+                        return value*1000;
+                    }
+                    else {
+                        return value/1000;
+                    }
+                case 'm':
+                    return value;
+                case 'cm':
+                    if(action == 'to'){
+                        return value*0.01;
+                    }
+                    else {
+                        return value/0.01;
+                    }
+                case 'mm':
+                    if(action == 'to'){
+                        return value*0.001;
+                    }
+                    else {
+                        return value/0.001;
+                    }
+                case 'mi':
+                    if(action == 'to'){
+                        return value*1609.34;
+                    }
+                    else {
+                        return value/1609.34;
+                    }
+                case 'yrd':
+                    if(action == 'to'){
+                        return value*0.9144;
+                    }
+                    else {
+                        return value/0.9144;
+                    }
+                case 'ft':
+                    if(action == 'to'){
+                        return value*0.3048;
+                    }
+                    else {
+                        return value/0.3048;
+                    }
+                case 'in':
+                    if(action == 'to'){
+                        return value*0.0254;
+                    }
+                    else {
+                        return value/0.0254;
+                    }
+            }
+        }
+    }
+</script>
+</body>
+</html>
