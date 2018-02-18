@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Time Converter</title>
+    <script src="timeConverter.js"></script>
+    <style>
+        label, input {
+            display: inline-block;
+            width: 5em;
+        }
+        label {
+            text-align: right;
+        }
+    </style>
+</head>
+<body onload="attachEventsListeners()">
+<h1>Time Converter</h1>
+<div>
+    <label for="days">Days: </label>
+    <input type="text" id="days">
+    <input id="daysBtn" type="button" value="Convert">
+</div>
+<div>
+    <label for="hours">Hours: </label>
+    <input type="text" id="hours">
+    <input id="hoursBtn" type="button" value="Convert">
+</div>
+<div>
+    <label for="minutes">Minutes: </label>
+    <input type="text" id="minutes">
+    <input id="minutesBtn" type="button" value="Convert">
+</div>
+<div>
+    <label for="seconds">Seconds: </label>
+    <input type="text" id="seconds">
+    <input id="secondsBtn" type="button" value="Convert">
+</div>
+<script>
+function attachEventsListeners() {
+    document.getElementById('daysBtn').addEventListener('click',convertFromDays);
+    document.getElementById('hoursBtn').addEventListener('click',convertFromHours);
+    document.getElementById('minutesBtn').addEventListener('click',convertFromMinutes);
+    document.getElementById('secondsBtn').addEventListener('click',convertFromSeconds);
+
+    let daysInput = document.getElementById('days');
+    let hoursInput = document.getElementById('hours');
+    let minutesInput = document.getElementById('minutes');
+    let secondsInput = document.getElementById('seconds');
+
+    function convertFromDays() {
+        let days = Number(daysInput.value);
+        hoursInput.value = days*24;
+        minutesInput.value = days*24*60;
+        secondsInput.value = days*24*3600;
+    }
+
+    function convertFromHours() {
+        let hours = Number(hoursInput.value);
+        daysInput.value = hours/24;
+        minutesInput.value = hours*60;
+        secondsInput.value = hours*3600;
+    }
+
+    function convertFromMinutes() {
+        let minutes = Number(minutesInput.value);
+        daysInput.value = minutes/(60*24);
+        hoursInput.value = minutes/60;
+        secondsInput.value = minutes*60;
+    }
+
+    function convertFromSeconds() {
+        let seconds = Number(secondsInput.value);
+        daysInput.value = seconds/(3600*24);
+        hoursInput.value = seconds/3600;
+        minutesInput.value = seconds/60;
+    }
+}
+</script>
+</body>
+</html>
