@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Form Validation</title>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
+    <style>#wrapper{
+        margin:auto;
+        width: 410px;
+    }
+
+    form{
+        box-sizing: border-box;
+        background-image: url("./images/background3.jpg");
+        width: 420px;
+        padding: 5px;
+    }
+
+    .pairContainer{
+        width: 95%;
+        display: table;
+        margin: 10px 0;
+    }
+
+    input{
+        float:right;
+        width: 60%;
+    }
+
+    label, legend{
+        color: darkblue;
+        font-weight: bold;
+    }
+
+    #submit{
+        box-sizing: border-box;
+        font-weight: bold;
+        color:white;
+        margin: 5px auto;
+        width: 95%;
+        background-color: blue;
+        display: block;
+    }
+
+    #valid{
+        box-sizing: border-box;
+        width: 420px;
+        padding: 5px;
+        color: lime;
+        border: 2px solid lime;
+        text-align: center;
+    }</style>
+</head>
+<body>
+<div id="wrapper">
+    <form id="registerForm">
+        <fieldset id="userInfo">
+            <legend>User Information:</legend>
+            <div class="pairContainer">
+                <label for="username">Userame:</label>
+                <input id="username" type="text">
+            </div>
+            <div class="pairContainer">
+                <label for="email">Email:</label>
+                <input id="email" type="text">
+            </div>
+            <div class="pairContainer">
+                <label for="password">Password:</label>
+                <input id="password" type="password">
+            </div>
+            <div class="pairContainer">
+                <label for="confirm-password">Confirm Password:</label>
+                <input id="confirm-password" type="password">
+            </div>
+            <div class="pairContainer">
+                <label for="company">Is Company?</label>
+                <input id="company" type="checkbox">
+            </div>
+        </fieldset>
+        <fieldset id="companyInfo" style="display: none;">
+            <legend>Company Informaion:</legend>
+            <div class="pairContainer">
+                <label for="companyNumber">Company Number</label>
+                <input id="companyNumber" type="number">
+            </div>
+        </fieldset>
+        <button id="submit">Submit</button>
+    </form>
+    <div id="valid" style="display: none">Valid</div>
+</div>
+<script>
+    window.onload = function(){
+        solve();
+    };
+
+    function solve() {
+        $('#submit').on('click',validate);
+        $('#company').on('change',checked);
+
+        let companyDisplayed = false;
+
+        function validate(event) {
+            event.preventDefault();
+            let invalidFieldsCount = 0;
+
+            let username = $('#username');
+            let email = $('#email');
+            let password = $('#password');
+            let confirmPassword = $('#confirm-password');
+
+            let usernameRegex = /^[A-Za-z0-9]{3,20}$/g;
+            let emailRegex = /^.*?\@.*?\..*$/g;
+            let passwordRegex = /^\w{5,15}$/g;
+            let confirmPassRegex = /^\w{5,15}$/g;
+
+            if(!usernameRegex.test(username.val())){
+                username.css('border-color','red');
+                invalidFieldsCount++;
+            }
+            else{
+                username.css('border','none');
+            }
+
+            if(!emailRegex.test(email.val())){
+                email.css('border-color','red');
+                invalidFieldsCount++;
+            }
+            else{
+                email.css('border','none');
+            }
+
+            if(!passwordRegex.test(password.val())){
+                password.css('border-color','red');
+                confirmPassword.css('border-color','red');
+                invalidFieldsCount++;
+            }
+            else{
+                if(!confirmPassRegex.test(confirmPassword.val()) || confirmPassword.val()!=password.val()){
+                    password.css('border-color','red');
+                    confirmPassword.css('border-color','red');
+                    invalidFieldsCount++;
+                }
+                else{
+                    password.css('border','none');
+                    confirmPassword.css('border','none');
+                }
+            }
+
+            if(companyDisplayed){
+                let companyNumber = $('#companyNumber');
+                let companyNumberValue = Number(companyNumber.val());
+
+                if(companyNumberValue>=1000 && companyNumberValue<=9999){
+                    companyNumber.css('border','none');
+                }
+                else {
+                    companyNumber.css('border-color','red');
+                    invalidFieldsCount++;
+                }
+            }
+
+            if(invalidFieldsCount > 0){
+                $('#valid').css('display','none');
+            }
+            else{
+                $('#valid').css('display','inline');
+            }
+        }
+        
+        function checked() {
+            if(companyDisplayed){
+                $('#companyInfo').css('display', 'none');
+                companyDisplayed = false;
+            }
+            else {
+                $('#companyInfo').css('display', 'inline');
+                companyDisplayed = true;
+            }
+        }
+    }
+</script>
+</body>
+</html>
