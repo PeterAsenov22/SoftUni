@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Increment Counter</title>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
+</head>
+<body>
+<div id="wrapper">
+</div>
+<script>
+    window.onload = function(){
+        increment("#wrapper");
+    }
+</script>
+<script>
+    function increment(pattern) {
+        let element = $(`${pattern}`);
+
+        let textArea = $('<textarea>');
+        textArea.addClass('counter');
+        textArea.val(0);
+        textArea.attr('disabled',true);
+        element.append(textArea);
+
+        let incrBtn = $('<button>');
+        incrBtn.addClass('btn');
+        incrBtn.attr('id','incrementBtn');
+        incrBtn.text('Increment');
+        incrBtn.on('click',incrementNumber);
+        element.append(incrBtn);
+
+        let addBtn = $('<button>');
+        addBtn.addClass('btn');
+        addBtn.attr('id','addBtn');
+        addBtn.text('Add');
+        addBtn.on('click',addLi);
+        element.append(addBtn);
+
+        let ul = $('<ul>');
+        ul.addClass('results');
+        element.append(ul);
+        
+        function incrementNumber() {
+            let area = $('.counter');
+            let currValue = Number(area.val());
+            area.val(currValue+1);
+        }
+        
+        function addLi() {
+            let area = $('.counter');
+            $('.results').append($('<li>').text(area.val()));
+        }
+    }
+</script>
+</body>
+</html>
