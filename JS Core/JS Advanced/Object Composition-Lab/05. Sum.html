@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sum</title>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
+</head>
+<body>
+<input type="text" id="num1" />
+<input type="text" id="num2" />
+<input type="text" id="result" readonly />
+<br>
+<button id="sumButton">
+    Sum</button>
+<button id="subtractButton">
+    Subtract</button>
+<script>
+    let solve = (function () {
+        let firstInput,secondInput,result;
+        
+        function init(selector1,selector2,resultSelector) {
+            firstInput = $(selector1);
+            secondInput = $(selector2);
+            result = $(resultSelector);
+        }
+        
+        function add() {
+            result.val(Number(firstInput.val()) + Number(secondInput.val()));
+        }
+        
+        function subtract() {
+            result.val(Number(firstInput.val()) - Number(secondInput.val()));
+        }
+
+        return {init,add,subtract};
+    })();
+
+    function sum() {
+        solve.init('#num1','#num2','#result');
+        solve.add();
+    }
+
+    function subtract() {
+        solve.init('#num1','#num2','#result');
+        solve.subtract();
+    }
+
+    $('#sumButton').on('click',sum);
+    $('#subtractButton').on('click',subtract);
+</script>
+</body>
+</html>
