@@ -1,3 +1,16 @@
+function isOddOrEven(string) {
+    if (typeof(string) !== 'string') {
+        return undefined;
+    }
+    if (string.length % 2 === 0) {
+        return "even";
+    }
+
+    return "odd";
+}
+
+let expect = require('chai').expect;
+
 describe('IsOddOrEvenTests',function () {
     it('should return undefined', function () {
         expect(isOddOrEven(5)).to.be.undefined;
